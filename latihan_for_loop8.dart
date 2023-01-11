@@ -1,5 +1,3 @@
-import 'dart:io';
-
 var batasAkhir = 7;
 void main(List<String> args) {
   for (var i = 1; i <= batasAkhir; i++) {
